@@ -12,6 +12,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - info-page
   - blog-post
 - type: document
   path: src/assets/content/data/authors.json
